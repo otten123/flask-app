@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 flask
+=======
+Flask
+gunicorn
+>>>>>>> aa210f568eb3fdc609835eea1a6f3f19da4ccb87
